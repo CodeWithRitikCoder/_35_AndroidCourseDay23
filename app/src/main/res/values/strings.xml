@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project 23 of Android Dev_How to Use API_1</string>
+    <string name="welcome_back">Welcome \nback..!</string>
+    <string name="how_to_use_api">How to use \nAPI</string>
+    <string name="api">API</string>
+    <string name="product_name">Product Name</string>
+    <string name="api_json_and_adapter">API, JSON and Adapter</string>
+    <string name="product_brand_name">Product brand name</string>
+</resources>
