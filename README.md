@@ -9,39 +9,28 @@ Day-22 of Android Course:- How to use APIs in Android Application
 <a href="https://www.youtube.com/c/https://youtube.com/@ritikcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ritikcoder" height="30" width="40" /></a>
 </p>
 <hr><hr>
-<h2>&#8649 My Application Preview ScreenShorts</h2>
+<h2>&#8649 My Application Preview ScreenShots</h2>
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
-      <img align="center" src="" alt="ScreenShort 1 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/screen_short_1.png" alt="ScreenShort 1 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="" alt="ScreenShort 2 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/screen_short_2.png" alt="ScreenShort 2 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="" alt="ScreenShort 3 of Application" height="500" width="250" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img align="center" src="" alt="ScreenShort 4 of Application" height="500" width="250" />
-    </td>
-    <td>
-      <img align="center" src="" alt="ScreenShort 5 of Application" height="500" width="250" />
-    </td>
-    <td>
-      <img align="center" src="" alt="ScreenShort 6 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/screen_short_3.png" alt="ScreenShort 3 of Application" height="500" width="250" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" src="" alt="ScreenShort 4 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/screen_short_4.png" alt="ScreenShort 4 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="" alt="ScreenShort 5 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/screen_short_5.png" alt="ScreenShort 5 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="" alt="ScreenShort 6 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay23/blob/master/app/src/main/res/drawable/android_logo1.png" alt="ScreenShort 5 of Application" height="500" width="250" />
     </td>
   </tr>
 </table>
